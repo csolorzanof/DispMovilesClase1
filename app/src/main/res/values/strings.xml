@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Demo</string>
+    <string name="titulo">Crear Color RGB</string>
+    <string name="instrucciones">Ingrese valores hexadecimales de dos caracteres entre 0-9, A-F o a-f para cada color</string>
+    <string name="color_rojo">Color Rojo:</string>
+    <string name="color_verde">Color Verde:</string>
+    <string name="color_azul">Color Azul:</string>
+    <string name="boton_crear">Crear Color</string>
+    <string name="msj_error">Ingrese todos los valores</string>
 </resources>
